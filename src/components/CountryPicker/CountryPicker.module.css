@@ -1,0 +1,11 @@
+.formControl {
+    width: 30%;
+    margin-bottom: 30px !important;
+    /* background:  rgba(0,128,22,0.3); */
+  }
+
+  .formControl:hover {
+    /* border:2px solid lightblue; */
+    box-shadow: 0 2.323px 221px rgba(0,222,33,0.3);
+    transition: all 0.2s ease;
+  }
